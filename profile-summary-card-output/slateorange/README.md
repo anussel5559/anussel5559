@@ -32,33 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/anussel5559/anussel5559/matrix/profile-summary-card-output/slateorange/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/anussel5559/anussel5559/matrix/profile-summary-card-output/slateorange/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/anussel5559/anussel5559/matrix/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
