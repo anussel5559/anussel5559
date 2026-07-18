@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/anussel5559/anussel5559/matrix/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
-```
-
-    
